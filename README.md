@@ -1,6 +1,15 @@
-# python-eco
+# 🐍My own python eco-chain
 
-My own python eco-chain.
+[TOC]
+
+## Env and Package management
+
++ [Miniconda]
+
+## IDE and Editor
+
++ Major IDE: PyCharm Professional
++ VSCode
 
 ## Deep-Learning
 
