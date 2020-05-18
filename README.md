@@ -1,6 +1,11 @@
 # 🐍My own python eco-chain
 
-[TOC]
++ [<g-emoji class="g-emoji" alias="snake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f40d.png">🐍</g-emoji>My own python eco-chain](#my-own-python-eco-chain)
+    + [Env and Package management](#env-and-package-management)
+    + [IDE and Editor](#ide-and-editor)
+    + [Deep-Learning](#deep-learning)
+    + [Pretty Print](#pretty-print)
+    + [Command Line Development](#command-line-development)
 
 ## Env and Package management
 
