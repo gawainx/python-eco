@@ -21,6 +21,11 @@
 + Based Framework: [PyTorch](https://pytorch.org/)
 + GNN Framework: [DGL](https://github.com/dmlc/dgl)
 + Knowledge Graph Embedding Framework: [dgl-kg](https://github.com/awslabs/dgl-ke) or [OpenKE](https://github.com/thunlp/OpenKE)
++ Conditional random fields in PyTorch: [torch-crf](https://pytorch-crf.readthedocs.io/en/stable/)
+
+## NLP
+
++ [texthearo](https://github.com/jbesomi/texthero)
 
 ## Pretty Print
 
@@ -31,3 +36,7 @@
 
 + Easy to used for simple command line: [Typer](https://github.com/tiangolo/typer)
 + And Typer is based on [click](https://github.com/pallets/click/)
+
+## Database
+
++ SQL ORM [sqlalchemy](https://www.sqlalchemy.org/)
